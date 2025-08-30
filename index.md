@@ -4,3 +4,5 @@
 ##### H4
 ###### H5
 Header test
+
+![Image of bizzare Yaktocat](https://octodex.github.com/images/yaktocat.png)
